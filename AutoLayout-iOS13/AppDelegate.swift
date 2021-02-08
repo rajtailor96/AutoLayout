@@ -1,9 +1,8 @@
 //
 //  AppDelegate.swift
-//  AutoLayout-iOS13
+//  AutoLayout
 //
-//  Created by Angela Yu on 28/06/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Raj Tailor on 02/07/2021.
 //
 
 import UIKit
